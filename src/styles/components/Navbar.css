@@ -1,0 +1,15 @@
+.nav-container{
+    display: flex;
+    background: rgb(70, 152, 214);
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+     box-shadow: 0 4px 4px 0 rgb(60 64 67 / 30%), 0 8px 12px 6px rgb(60 64 67 / 15%);
+}
+.nav-items{
+    color: black;
+    margin: 5px 10px 5px 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    text-decoration: none;
+}
